@@ -1,0 +1,1 @@
+Ce projet est une application de gestion permettant de faciliter les opérations quotidiennes d'une supérette. Cette application couvre la gestion de fournisseurs, d'achats, de stocks, des clients ainsi que des ventes.
